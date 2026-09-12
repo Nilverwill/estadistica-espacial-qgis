@@ -1,0 +1,1 @@
+# estadistica-espacial-qgis
